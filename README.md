@@ -121,5 +121,3 @@ pip install -r requirements.txt
 ```
 
 ### 4. Start StudentShield
-
-You can double
